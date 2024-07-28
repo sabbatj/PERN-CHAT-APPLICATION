@@ -43,4 +43,3 @@ npm run build
 npm start
 ```
 
-### Like and Subscribe 🌟
