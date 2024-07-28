@@ -2,8 +2,6 @@
 
 ![Demo App](https://i.ibb.co/RC4pW36/Group-124.png)
 
-[Video Tutorial on Youtube](https://youtu.be/vL24eiwAG_g)
-
 Some Features:
 
 -   🌟 Tech stack: PERN + TypeScript + Socket.io + Prisma + TailwindCSS
